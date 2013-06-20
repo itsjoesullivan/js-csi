@@ -1,6 +1,6 @@
 #CSI
 
-A little boilerplate is helpful to really get going in the terminal. These are the most basic functions you may want:
+A little boilerplate is helpful to really get going with a UI in the terminal. These are the most basic functions you may want:
 
 ##Usage
 

@@ -1,0 +1,22 @@
+{
+  "name": "js-csi",
+  "version": "1.0.1",
+  "description": "CSI ANSI escape codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsjoesullivan/js-csi.git"
+  },
+  "keywords": [
+    "csi",
+    "ansi",
+    "cli",
+    "terminal"
+  ],
+  "author": "Joe Sullivan",
+  "license": "BSD",
+  "gitHead": "1649ac32807d0afbcdaec92204e1b535997b04f5"
+}
