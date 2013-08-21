@@ -1,6 +1,6 @@
 {
   "name": "js-csi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CSI ANSI escape codes",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "csi",
     "ansi",
     "cli",
-    "terminal"
+    "terminal",
+    "underscore"
   ],
   "author": "Joe Sullivan",
   "license": "BSD",
